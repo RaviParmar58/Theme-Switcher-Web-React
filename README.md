@@ -5,7 +5,9 @@ This is a web application built using React and Vite that allows users to dynami
 ## Features
 - Easily switch between predefined themes.
 
+Bellow is website demo
 ![Screenshot 2023-11-07 171706](https://github.com/RaviParmar58/Theme-Switcher-Web-React/assets/86353255/f419a2f6-6476-4e68-82b7-f46ab68de8e8)
+![Screenshot 2023-11-07 172652](https://github.com/RaviParmar58/Theme-Switcher-Web-React/assets/86353255/f90880bc-e3ff-4756-a114-ccbf2ef0f923)
 
 
 - ## Getting Started
@@ -18,4 +20,4 @@ This is a web application built using React and Vite that allows users to dynami
 3. **Run the Development Server**
     npm run dev
 
-Feel free to reach out if you have any questions or need further assistance. Happy theming!
+Feel free to reach out if you have any questions or need further assistance. Happy Coding!
